@@ -14,3 +14,12 @@ def setup(request):
     request.cls.driver = driver
     yield
     driver.close()
+
+
+input1 = ("2023-06-06", "12:00", "2023-06-07", "12:00")
+input2 = ("2023-06-14", "09:00", "2023-06-14", "11:00")
+
+
+@pytest.fixture(params=[input1, input2])
+def test_data(request):
+    return request.param
