@@ -4,6 +4,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 
 driver = None
+
 input1 = ("2023-06-06", "12:00", "2023-06-07", "12:00", "chrome")
 input2 = ("2023-06-14", "09:00", "2023-06-14", "11:00", "firefox")
 
