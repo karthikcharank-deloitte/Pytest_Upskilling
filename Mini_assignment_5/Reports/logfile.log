@@ -1,0 +1,21 @@
+2023-05-30 11:52:07,274 :INFO : test_calculate_cost :URL launched successfully..!!
+2023-05-30 11:52:07,336 :INFO : test_calculate_cost :Parking type selected as: Short-Term parking
+2023-05-30 11:52:07,471 :INFO : test_calculate_cost :Entry date is set to: 2023-06-06
+2023-05-30 11:52:07,570 :INFO : test_calculate_cost :Entry time is set to: 09:00
+2023-05-30 11:52:07,649 :INFO : test_calculate_cost :Exit date is set to: 2023-06-06
+2023-05-30 11:52:07,734 :INFO : test_calculate_cost :Exit time is set to: 11:00
+2023-05-30 11:52:07,773 :INFO : test_calculate_cost :Clicked on Calculate cost button
+2023-05-30 11:52:07,999 :INFO : test_verify_cost_and_time :The actual cost for parking: 4.00€
+2023-05-30 11:52:08,013 :INFO : test_verify_cost_and_time :The actual time for parking: 0 Day(s), 2 Hour(s), 0 Minute(s)
+2023-05-30 11:52:08,013 :INFO : test_verify_cost_and_time :The cost and time for the parking is verified successfully..!!
+2023-05-30 11:52:08,702 :INFO : test_booking_details :Clicked on Reserve Online
+2023-05-30 11:52:08,749 :INFO : test_booking_details :First name entered is: ABC
+2023-05-30 11:52:08,798 :INFO : test_booking_details :Last name entered is: XYZ
+2023-05-30 11:52:08,847 :INFO : test_booking_details :E-mail entered is: abc@gmail.com
+2023-05-30 11:52:08,888 :INFO : test_booking_details :Mobile number entered is: 9876543210
+2023-05-30 11:52:08,933 :INFO : test_booking_details :Vehicle size entered as: Medium Car
+2023-05-30 11:52:08,975 :INFO : test_booking_details :Vehicle number entered as: AB1234
+2023-05-30 11:52:08,985 :INFO : test_booking_details :Scrolled down to the bottom of the webpage
+2023-05-30 11:52:09,894 :INFO : test_booking_details :Clicked on submit button
+2023-05-30 11:52:09,909 :INFO : test_verify_reservation :The title of the webpage is: Web Parking Payment
+2023-05-30 11:52:09,909 :INFO : test_verify_reservation :The title of the webpage is verified successfully..!!: 
